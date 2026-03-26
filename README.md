@@ -1,9 +1,9 @@
 # ☁️ Miniguia de Estudos com NotebookLM — AWS Cloud Practitioner
 
 ## 📌 Sobre o Projeto
-Este repositório foi desenvolvido com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.
+Este repositório foi desenvolvido com o objetivo de organizar um **caderno temático de estudos no NotebookLM** voltado para a certificação **AWS Certified Cloud Practitioner (CLF-C02)**.
 
-A proposta consistiu na criação de um **Caderno Temático no NotebookLM** voltado para os estudos da certificação **AWS Certified Cloud Practitioner (CLF-C02)**, utilizando documentação oficial, engenharia de prompts e consolidação do conteúdo em um material de revisão estruturado.
+A proposta foi utilizar fontes oficiais da AWS e apoio da Inteligência Artificial para transformar documentação técnica em um material mais acessível, estruturado e útil para revisão.
 
 ---
 
@@ -26,7 +26,41 @@ Os objetivos principais deste projeto foram:
 
 ---
 
-## 📚 Estrutura do Projeto
+## 📚 O que foi estudado
+Durante o processo, foram explorados temas fundamentais da certificação, como:
+
+- Proposta de valor da computação em nuvem
+- Infraestrutura global da AWS
+- Modelo de Responsabilidade Compartilhada
+- IAM, MFA e princípio do menor privilégio
+- Serviços principais da AWS:
+  - Amazon EC2
+  - AWS Lambda
+  - Amazon ECS
+  - Amazon S3
+  - Amazon EBS
+  - Amazon EFS
+  - Amazon RDS
+  - Amazon DynamoDB
+  - Amazon VPC
+- AWS Well-Architected Framework
+- Billing, Pricing Calculator, Cost Explorer, Budgets e Support Plans
+
+---
+
+## 🧠 Como o NotebookLM foi utilizado
+O NotebookLM foi utilizado como ferramenta de apoio ao estudo da certificação, principalmente para:
+
+- gerar explicações simplificadas
+- resumir conteúdos técnicos
+- comparar serviços AWS
+- criar glossários
+- produzir perguntas de revisão
+- estruturar um material final de estudo
+
+---
+
+## 📂 Estrutura do Projeto
 
 ### Fontes
 - [`fontes/links-fontes.md`](./fontes/links-fontes.md)
